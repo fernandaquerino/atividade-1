@@ -1,2 +1,5 @@
 # atividade-1
-CONTRIBUIÇÃO COMPARTILHADA
+
+## Contribuição Compartilhada
+
+Atividade referente ao curso Sistemas para Internet, Capitulo 11.
